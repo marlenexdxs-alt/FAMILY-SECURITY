@@ -18,7 +18,7 @@ Prototipo local para un negocio de pulseras de goma con codigo QR.
 En este prototipo, entra con:
 
 ```text
-FS-ADMIN-2026
+62052802
 ```
 
 Este codigo solo sirve para pruebas locales. En una version real debe existir un login administrativo con servidor, roles y auditoria.
