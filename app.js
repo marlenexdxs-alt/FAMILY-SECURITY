@@ -4,7 +4,7 @@ alert("ESTE ES UN PROTOTIPO DE PRUEBA ; Prototipo local para un negocio de pulse
 
 const STORAGE_KEY = "family-security-platform-v1";
 const ADMIN_EMAIL = "familysecurityoficial@gmail.com";
-const ADMIN_CODE = "62052802";
+const ADMIN_CODE = "FS-ADMIN-2026";
 const TRIAL_DAYS = 30;
 const MAX_PROFILES_PER_ACCOUNT = 6;
 
